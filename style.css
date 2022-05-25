@@ -1,0 +1,129 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #f5f5f5;
+}
+.nav-hero {
+  background-image: url("img/back.png");
+  background-size: 100% 100%;
+  height: 55rem;
+
+  width: 100%;
+}
+.nav-item {
+  margin-left: 2rem;
+}
+
+.logo-img {
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
+.nav-link {
+  margin-left: 2rem;
+  color: #f5f5f5;
+  transition: all 5s ease;
+}
+.nav-link:hover {
+  border-bottom: 1px solid #f5f5f5;
+  color: #f5f5f5;
+}
+.call {
+  position: absolute;
+  right: 13rem;
+
+  font-size: 20px;
+}
+.logo-img {
+  height: 74px;
+  width: 202px;
+}
+
+.navbar-nav {
+  margin-left: 30rem;
+}
+
+.global-icon {
+  position: absolute;
+  right: 7rem;
+}
+/* hero */
+
+section {
+  color: #f5f5f5;
+  margin-bottom: 10rem;
+}
+
+.logo1 {
+  width: 769px;
+  height: 626px;
+  position: absolute;
+  right: 0;
+  left: 2;
+}
+
+.hero-icon {
+  width: 20px;
+  height: 35.87px;
+  margin: 5px;
+}
+
+.el-1 {
+  background-color: #f5f5f5;
+  border-radius: 9px;
+  padding: 10px 30px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: left;
+  letter-spacing: 0px;
+  color: #0a4473;
+  opacity: 1;
+  margin-right: 2rem;
+}
+
+#hero-text {
+  margin-top: 12rem;
+}
+
+.col-5 h1 {
+  color: #f1d9bf;
+}
+
+/* about */
+
+.about h1 {
+  color: #0b4e86;
+  opacity: 1;
+
+  margin-bottom: 2rem;
+}
+
+.about p {
+  letter-spacing: 0px;
+  color: #646464;
+  opacity: 1;
+}
+
+.about {
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+}
+
+.about-icon {
+  padding: 20px 30px;
+  border-radius: 50%;
+  font-size: 20px;
+  background-color: #0b4e86;
+  color: #f5f5f5;
+  border: 0px solid transparent;
+  margin-top: 4rem;
+  transition: all 0.5s ease;
+}
+
+.about-icon:hover {
+  color: #0b4e86;
+  background-color: #f5f5f5;
+  border: 1px solid #0a4473;
+}
